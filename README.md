@@ -34,4 +34,4 @@ Use the "Table of Contents" menu on the top-left corner to explore the list. -->
 
 - [samuelstroschein/inlang-plugin-json](https://github.com/samuelstroschein/inlang-plugin-json) - This plugin reads and writes resources that are stored as JSON.
 
-- [jannesblobel/inlang-plugin-json](https://github.com/jannesblobel/inlang-plugin-po) - This plugin reads and writes resources that are stored as .po file.
+- [jannesblobel/inlang-plugin-po](https://github.com/jannesblobel/inlang-plugin-po) - This plugin reads and writes resources that are stored as .po file.
