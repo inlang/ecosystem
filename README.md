@@ -5,7 +5,7 @@
   <br>
 </p>
 
-<h2 align='center'>Awesome inlang</h2>
+<h2 align='center'>inlang ecosystem</h2>
 
 <p align='center'>
 A curated list of awesome things related to <a href='https://github.com/inlang/inlang'>inlang</a></p>
