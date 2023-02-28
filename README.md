@@ -28,3 +28,6 @@ Use the "Table of Contents" menu on the top-left corner to explore the list. -->
 - [po](https://github.com/jannesblobel/inlang-plugin-po) - This plugin reads and writes resources that are stored as .po file.
 - [typesafe-i18n](https://github.com/ivanhofer/inlang-plugin-typesafe-i18n) - This is the official [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) plugin for inlang.
 
+## Lint Rules & Collections
+
+ - [standard-lint-rules](https://github.com/inlang/standard-lint-rules) - The official lint rules from inlang.
